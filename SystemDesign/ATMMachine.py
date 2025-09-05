@@ -1,5 +1,7 @@
 # ATM Machine System Design
 
+#Class ATM machine
+
 class ATM:   # Track all card details and balance details mapped to a card
     def __init__(self):
         self.cardDetails = {}  
